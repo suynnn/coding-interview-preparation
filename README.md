@@ -13,6 +13,9 @@
   - [docs] OOO
 <br/><br/>
 ## 💻 풀이한 문제 목록
+### Dynamic Programming
+[BOJ] 1463번 - 1로 만들기 / 실버 3 <br/>
+
 ### Greedy
 [BOJ] 11399번 - ATM / 실버 4 <br/>
 [BOJ] 1946번 - 신입 사원 / 실버 1 <br/>
