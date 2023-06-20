@@ -15,6 +15,7 @@
 ## 💻 풀이한 문제 목록
 ### Dynamic Programming
 [BOJ] 1463번 - 1로 만들기 / 실버 3 <br/>
+[BOJ] 9095번 - 1, 2, 3 더하기 / 실버 3 <br/>
 
 ### Greedy
 [BOJ] 11399번 - ATM / 실버 4 <br/>
