@@ -16,6 +16,9 @@
 ### Implementation
 [BOJ] 1475번 - 방 번호 / 실버 5 <br/>
 
+### LinkedList
+[BOJ] 1406번 - 에디터 / 실버 2 <br/>
+
 ### Sorting
 [BOJ] 3273번 - 두 수의 합 / 실버 3 <br/>
 
